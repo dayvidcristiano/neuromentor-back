@@ -28,7 +28,8 @@ public class AuthController(AppDbContext db, JwtService jwt) : ControllerBase
             Email = req.Email.Trim().ToLower(),
             PasswordHash = BCrypt.Net.BCrypt.HashPassword(req.Password),
             Role = role,
-        };
+            IsAiEnabled = true,
+        };                                                
 
         db.Users.Add(user);
         await db.SaveChangesAsync();

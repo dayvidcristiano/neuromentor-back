@@ -134,3 +134,4 @@ C:\Users\User\Downloads\neuromentor-backend\obj\Debug\net10.0\refint\NeuroMentor
 C:\Users\User\Downloads\neuromentor-backend\obj\Debug\net10.0\NeuroMentor.Api.pdb
 C:\Users\User\Downloads\neuromentor-backend\obj\Debug\net10.0\NeuroMentor.Api.genruntimeconfig.cache
 C:\Users\User\Downloads\neuromentor-backend\obj\Debug\net10.0\ref\NeuroMentor.Api.dll
+C:\Users\User\Downloads\neuromentor-backend\obj\Debug\net10.0\NeuroMentor.Api.sourcelink.json
