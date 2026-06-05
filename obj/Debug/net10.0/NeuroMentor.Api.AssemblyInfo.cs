@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeuroMentor.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d7a9f276c17ff8af0028de307db7691a3353702")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d42208e5d42757f7c016b475e64d3439053753da")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeuroMentor.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeuroMentor.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

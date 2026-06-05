@@ -1,0 +1,12 @@
+[35mServices/ClaudeService.cs[m[36m:[m[32m12[m[36m:[m    private string [1;31mApiKey[m => config["Anthropic:[1;31mApiKey[m"]!;
+[35mServices/ClaudeService.cs[m[36m:[m[32m26[m[36m:[m        req.Headers.Add("x-api-key", [1;31mApiKey[m);
+[35mServices/ClaudeService.cs[m[36m:[m[32m57[m[36m:[m        req.Headers.Add("x-api-key", [1;31mApiKey[m);
+[35mServices/GeminiService.cs[m[36m:[m[32m10[m[36m:[m    private string [1;31mApiKey[m => config["Gemini:[1;31mApiKey[m"]!;
+[35mServices/GeminiService.cs[m[36m:[m[32m16[m[36m:[m        var url = $"{BaseUrl}/{Model}:generateContent?key={[1;31mApiKey[m}";
+[35mServices/GeminiService.cs[m[36m:[m[32m50[m[36m:[m        var url = $"{BaseUrl}/{Model}:streamGenerateContent?alt=sse&key={[1;31mApiKey[m}";
+[35mappsettings.example.json[m[36m:[m[32m11[m[36m:[m    "[1;31mApiKey[m": "sk-ant-..."
+[35mappsettings.json[m[36m:[m[32m11[m[36m:[m    "[1;31mApiKey[m": ""
+Binary file [35mbin/Debug/net10.0/NeuroMentor.Api.dll[m matches
+[35mbin/Debug/net10.0/appsettings.example.json[m[36m:[m[32m11[m[36m:[m    "[1;31mApiKey[m": "sk-ant-..."
+[35mbin/Debug/net10.0/appsettings.json[m[36m:[m[32m11[m[36m:[m    "[1;31mApiKey[m": "AIzaSyAb8RN6IXtVfrlao3YcGjwO8hUDci-129dXDBDTCpWqTfg8CtOQ"
+Binary file [35mobj/Debug/net10.0/NeuroMentor.Api.dll[m matches
